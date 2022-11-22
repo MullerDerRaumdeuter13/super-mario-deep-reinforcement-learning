@@ -2,4 +2,4 @@ tqdm
 numpy
 tensorflow
 gym-super-mario-bros
-skimage
+scikit-image
